@@ -47,3 +47,6 @@ Exemplos:
 - "SOCORRAM ME SUBI NO ONIBUS EM MARROCOS" é um palíndromo (perceba que para essa verificação os espaços em branco não são levados em consideração).
 - "ABCDCBA" é um palíndromo.
 - "ABAB" **não** é um palíndromo.
+
+
+Para essa tarefa considere 0 < n <= 1000.
