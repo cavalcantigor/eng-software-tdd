@@ -39,7 +39,7 @@ A diferença diagonal absoluta para essa matriz é:
 - 3 + 5 + 9 = 17 (diagonal da direita para a esquerda)
 - Diferença absoluta: |15 - 17| = 2 (diferença em módulo)
 
-Para esse problema, considere 2 < n <= 1000 e cada elemento da matriz como um inteiro -100 < `m[i][j]` <= 100.
+Para esse problema, considere 2 <= n <= 1000 e cada elemento da matriz como um inteiro -100 < `m[i][j]` <= 100.
 
 ### Palíndromo
 Dada uma string de tamanho variável **n**, determine se essa string é um palíndromo.
