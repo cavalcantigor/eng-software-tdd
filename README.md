@@ -15,7 +15,7 @@ Para a resolução dessa tarefa, é ideal que escolha uma dessas linguagens: `Py
 ### Envio
 Para envio da sua resposta, você deverá criar um repositório **público** no GitHub com o seu código da sua solução. Após a criação do repositório, envie o link do seu repositório como um comentário [nessa issue](https://github.com/cavalcantigor/eng-software-tdd/issues/1).
 
-Só serão aceitos envios realizados até o dia 30/06/2022.
+Só serão aceitos envios realizados até o dia 30/05/2022.
 
 ## Tarefas
 
